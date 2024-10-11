@@ -1,0 +1,193 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Découvrez les 7 solutions applicatives interconnectées et 100% flexibles : je m'inscris au webinar !</mj-title>
+    <mj-font></mj-font>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-image border="none"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body width="650px" background-color="#eeeeee">
+    <mj-section>
+      <mj-column>
+        <mj-text>Visualisez le message | Retirer de la liste de diffusion contact@ecosup-campus.fr</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Applications de gestion</mj-text>
+        <mj-text>100% no-code</mj-text>
+        <mj-text>Accélérer la croissance</mj-text>
+        <mj-text>de votre entreprise</mj-text>
+        <mj-text>Libérez-vous des contraintes de logiciels figés du marché et embrassez l'ère de l'efficacité avec les applications de gestion 100% no-code Flex365 en vous inscrivant à nos webinaires</mj-text>
+        <mj-button>Je m'inscris au webinaire</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/KrjTLhL/col-03.png" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column>
+          <mj-text>Flex365 sont des applications de gestion 100% no-code</mj-text>
+          <mj-text>Accélérer la croissance de votre entreprise</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>Développement plus rapide</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Réductions des coûts</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Augmentation de l'agilité</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>Amélioration de l'epérience utilisateur</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Plus grande flexibilité</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Solutions Applicatives prêtes à l'emploi</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>42 connecteurs disponibles</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Prêt à l'emploi ou sur mesure</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text>Interconnectivité</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column> 
+          <mj-text>7 solutions applicatives interconnectées et 100% flexibles</mj-text>
+          <mj-text>pour accélérer la croissance de votre organisation...</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/DWZnLRH/BLOC-03.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/7z9CgTJ/BLOC-05.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/pyRXTKF/BLOC-07.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/RhSSgP1/BLOC-09.jpg" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/1rVdtmw/BLOC-16.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/yVhDgjF/BLOC-18.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/phwBdF9/BLOC-20.jpg" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-button>Je privéligie une consultation individualisée</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column>
+          <mj-text>Avec plus de 42 connecteurs</mj-text>
+          <mj-text>pour les standards du marché</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-group>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+        </mj-group>
+        <mj-group>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+        <mj-group>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+        </mj-group>
+        <mj-group>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+        <mj-text>Ce message vous est adressé par Altares pour vous présenter les services de son client.</mj-text>
+        <mj-text>Plus de détails sur l'envoi de cet email et nos engagements sont accessibles par ce lien.</mj-text>
+        <mj-text>Si vous souhaitez stopper la réception des emails d'Altares pour ce client, suivez ce lien, ou la réception de tous nos envois, suivez cet autre lien.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
