@@ -1,0 +1,29 @@
+mjml
+    mj-head
+        mj-title Découvrez les 7 solutions applicatives interconnectées et 100% flexibles : je m'inscris au webinar !
+        mj-font()
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-attributes
+            mj-image(border="none")/
+        mj-breakpoint(width="480px")
+    mj-body(width="650px" background-color="#eeeeee")
+        //- content
+        block content
+        //- header
+        block header
+            include ../includes/_one
+        //- objectifs argumentaires
+        block objects
+            include ../includes/_objects
+        //- solutions
+        block solutions
+            include ../includes/_solutions
+        //- footer
+        block footer
+            include ../includes/_footer
