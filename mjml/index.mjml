@@ -3,6 +3,7 @@
   <mj-head>
     <mj-title>Découvrez les 7 solutions applicatives interconnectées et 100% flexibles : je m'inscris au webinar !</mj-title>
     <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap"></mj-font>
+    <mj-font name="FontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"></mj-font>
     <mj-raw>
       <meta name="color-scheme" content="light"/>
       <meta name="supported-color-schemes" content="light"/>
@@ -17,22 +18,22 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body width="650px" background-color="#eeeeee">
-    <mj-section>
+    <mj-section padding="0">
       <mj-column>
-        <mj-text>Visualisez le message | Retirer de la liste de diffusion contact@ecosup-campus.fr</mj-text>
+        <mj-text align="center" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" line-height="16px"><a style="color:#0000ff" href="#">Visualisez le message</a> | <a style="color:#0000ff" href="#">Retirer de la liste de diffusion contact@ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text>Applications de gestion</mj-text>
-        <mj-text>100% no-code</mj-text>
-        <mj-text>Accélérer la croissance</mj-text>
-        <mj-text>de votre entreprise</mj-text>
-        <mj-text>Libérez-vous des contraintes de logiciels figés du marché et embrassez l'ère de l'efficacité avec les applications de gestion 100% no-code Flex365 en vous inscrivant à nos webinaires</mj-text>
-        <mj-button>Je m'inscris au webinaire</mj-button>
+    <mj-section background-color="#0c2982" background-url="https://op.lm-manleads.com/clt-df/flex/assets/2024-07/back_01.png" background-repeat="repeat" background-size="cover">
+      <mj-column width="3.07%"></mj-column>
+      <mj-column width="313px" padding="10px">
+        <mj-text padding="0" align="left" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" line-height="27px" color="#ffffff">Applications de gestion</mj-text>
+        <mj-text padding="0" align="left" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="32px" font-weight="700" line-height="36px" color="#ffffff">100% no-code</mj-text>
+        <mj-text padding="0" align="left" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" line-height="27px" color="#ffffff">Accélérer la croissance de votre entreprise</mj-text>
+        <mj-text padding="20px 0" align="left" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="15px" font-weight="400" line-height="19px" color="#ffffff">Libérez-vous des contraintes de logiciels figés du marché et embrassez l'ère de l'efficacité avec les applications de gestion 100% no-code Flex365 en vous inscrivant à nos webinaires</mj-text>
+        <mj-button href="#" padding="10px 0" align="left" inner-padding="16px 20px" background-color="#0066ff" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="15px" font-weight="600" line-height="19px" color="#ffffff">Je m'inscris au webinaire <i class="fa-solid fa-arrow-right" style="font-family:FontAwesome;color:#ffffff"></i></mj-button>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://i.ibb.co/KrjTLhL/col-03.png" alt=""></mj-image>
+      <mj-column width="317px">
+        <mj-image align="right" padding="0" width="317px" fluid-on-mobile="true" src="https://i.ibb.co/KrjTLhL/col-03.png" alt=""></mj-image>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px 25px 20px 25px">
