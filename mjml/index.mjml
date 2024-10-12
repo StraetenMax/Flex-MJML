@@ -77,36 +77,34 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper>
-      <mj-section>
+    <mj-wrapper background-color="#e5efff" padding="25px">
+      <mj-section padding="0">
         <mj-column> 
           <mj-text>7 solutions applicatives interconnectées et 100% flexibles</mj-text>
           <mj-text>pour accélérer la croissance de votre organisation...</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/DWZnLRH/BLOC-03.jpg" alt=""></mj-image>
+      <mj-section padding="0">
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/DWZnLRH/BLOC-03.jpg" alt=""></mj-image>
         </mj-column>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/7z9CgTJ/BLOC-05.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/7z9CgTJ/BLOC-05.jpg" alt=""></mj-image>
         </mj-column>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/pyRXTKF/BLOC-07.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/pyRXTKF/BLOC-07.jpg" alt=""></mj-image>
         </mj-column>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/RhSSgP1/BLOC-09.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/RhSSgP1/BLOC-09.jpg" alt=""> </mj-image>
         </mj-column>
-      </mj-section>
-      <mj-section>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/1rVdtmw/BLOC-16.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/1rVdtmw/BLOC-16.jpg" alt=""></mj-image>
         </mj-column>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/yVhDgjF/BLOC-18.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" src="https://i.ibb.co/yVhDgjF/BLOC-18.jpg" alt=""></mj-image>
         </mj-column>
-        <mj-column>
-          <mj-image src="https://i.ibb.co/phwBdF9/BLOC-20.jpg" alt=""></mj-image>
+        <mj-column width="25%">
+          <mj-image padding="8px" width="138px" fluid-on-mobile="true" src="https://i.ibb.co/phwBdF9/BLOC-20.jpg" alt=""></mj-image>
         </mj-column>
       </mj-section>
       <mj-section>
