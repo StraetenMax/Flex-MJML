@@ -2,7 +2,7 @@
 <mjml>
   <mj-head>
     <mj-title>Découvrez les 7 solutions applicatives interconnectées et 100% flexibles : je m'inscris au webinar !</mj-title>
-    <mj-font></mj-font>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap"></mj-font>
     <mj-raw>
       <meta name="color-scheme" content="light"/>
       <meta name="supported-color-schemes" content="light"/>
@@ -35,44 +35,44 @@
         <mj-image src="https://i.ibb.co/KrjTLhL/col-03.png" alt=""></mj-image>
       </mj-column>
     </mj-section>
-    <mj-wrapper>
-      <mj-section>
+    <mj-wrapper background-color="#ffffff" padding="0 20px 20px 20px">
+      <mj-section padding="0 0 20px 0">
         <mj-column>
-          <mj-text>Flex365 sont des applications de gestion 100% no-code</mj-text>
-          <mj-text>Accélérer la croissance de votre entreprise</mj-text>
+          <mj-text padding="0" align="center" font-family="'Open Sans',Arial, Helvetica, sans-serif" font-size="21px" font-weight="700" line-height="100%" color="#003399">Flex365 sont des applications de gestion 100% no-code</mj-text>
+          <mj-text padding="0" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="18px" font-weight="300" line-height="100%" color="#448fff">Accélérer la croissance de votre entreprise</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section>
-        <mj-column>
-          <mj-text>Développement plus rapide</mj-text>
+      <mj-section padding="0px">
+        <mj-column background-color="#e5efff" padding="20px">
+          <mj-text padding="10px" align="center">Développement plus rapide</mj-text>
         </mj-column>
-        <mj-column>
-          <mj-text>Réductions des coûts</mj-text>
+        <mj-column padding="20px">
+          <mj-text padding="10px" align="center">Réductions des coûts</mj-text>
         </mj-column>
-        <mj-column>
-          <mj-text>Augmentation de l'agilité</mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section>
-        <mj-column>
-          <mj-text>Amélioration de l'epérience utilisateur</mj-text>
-        </mj-column>
-        <mj-column>
-          <mj-text>Plus grande flexibilité</mj-text>
-        </mj-column>
-        <mj-column>
-          <mj-text>Solutions Applicatives prêtes à l'emploi</mj-text>
+        <mj-column background-color="#f2f7ff" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="17px" color="#336699">Augmentation de l'agilité</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section>
-        <mj-column>
-          <mj-text>42 connecteurs disponibles</mj-text>
+      <mj-section padding="0px">
+        <mj-column background-color="#eeeeee" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="17px" color="#336699">Amélioration de l'expérience utilisateur</mj-text>
         </mj-column>
-        <mj-column>
-          <mj-text>Prêt à l'emploi ou sur mesure</mj-text>
+        <mj-column background-color="#e5efff" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="34px" color="#336699">Plus grande flexibilité</mj-text>
         </mj-column>
-        <mj-column>
-          <mj-text>Interconnectivité</mj-text>
+        <mj-column background-color="#eeeeee" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="17px" color="#336699">Solutions Applicatives prêtes à l'emploi</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-column background-color="#f2f7ff" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="17px" color="#336699">42 connecteurs disponibles</mj-text>
+        </mj-column>
+        <mj-column background-color="#eeeeee" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="17px" color="#336699">Prêt à l'emploi ou sur mesure</mj-text>
+        </mj-column>
+        <mj-column background-color="#e5efff" padding="20px">
+          <mj-text padding="10px" align="center" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" line-height="34px" color="#336699">Interconnectivité</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
