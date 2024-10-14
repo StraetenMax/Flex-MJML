@@ -118,79 +118,77 @@
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-wrapper backgound-color="#ffffff">
+    <mj-wrapper background-color="#ffffff">
       <mj-section>
         <mj-column>
-          <mj-text mj-class="t1">Avec plus de 42 connecteurs</mj-text>
-          <mj-text mj-class="t2">pour les standards du marché</mj-text>
+          <mj-text padding="0" align="center" mj-class="t1">Avec plus de 42 connecteurs</mj-text>
+          <mj-text padding="0" align="center" mj-class="t2">pour les standards du marché</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section>
-        <mj-group>
+      <mj-section padding="20px 25px">
+        <mj-group width="50%">
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/GcY20gs/icone-62.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/pRFVXGZ/icone-61.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/j6v1FSr/icone-60.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
-          </mj-column>
-        </mj-group>
-        <mj-group>
-          <mj-column>
-            <mj-image></mj-image>
-          </mj-column>
-          <mj-column>
-            <mj-image></mj-image>
-          </mj-column>
-          <mj-column>
-            <mj-image></mj-image>
-          </mj-column>
-          <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/jhGFLfw/icone-59.jpg"></mj-image>
           </mj-column>
         </mj-group>
-      </mj-section>
-      <mj-section>
-        <mj-group>
+        <mj-group width="50%">
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/9HQ9r1y/icone-58.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/GJb6v5C/icone-57.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/ck5n0qn/icone-55.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/2hQ94wB/icone-54.png"></mj-image>
           </mj-column>
         </mj-group>
-        <mj-group>
+        <mj-group width="50%">
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/Sm2D8hS/icone-40.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/TbQpg7b/icone-38.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/yFLsvKC/icone-36.jpg"></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image></mj-image>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/NTv05Ls/icone-34.jpg" alt=""></mj-image>
+          </mj-column>
+        </mj-group>
+        <mj-group width="50%">
+          <mj-column>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/chZR3XF/icone-32.jpg" alt=""></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/tCYRf0d/icone-30.jpg" alt=""></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/DrmsVb6/icone-28.jpg" alt=""></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image padding="6px" width="60px" src="https://i.ibb.co/VNrZfbT/icone-26.jpg" alt=""></mj-image>
           </mj-column>
         </mj-group>
       </mj-section>
     </mj-wrapper>
-    <mj-section>
+    <mj-section padding="15px 40px">
       <mj-column>
         <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Ce message vous est adressé par Altares pour vous présenter les services de son client.</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Plus de détails sur l'envoi de cet email et nos engagements sont accessibles par ce lien.</mj-text>
-        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="1b1b1b">Si vous souhaitez stopper la réception des emails d'Altares pour ce client, suivez ce lien, ou la réception de tous nos envois, suivez cet autre lien.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Plus de détails sur l'envoi de cet email et nos engagements sont accessibles <a href="#" style="color:#0000ff">par ce lien</a>.</mj-text>
+        <mj-text padding="0" align="center" font-family="Arial, Helvetica, sans-serif" font-size="10px" font-weight="400" line-height="14px" color="#1b1b1b">Si vous souhaitez stopper la réception des emails d'Altares pour ce client, <a href="#" style="color:#0000ff">suivez ce lien</a>, ou la réception de tous nos envois, <a href="#" style="color:#0000ff">suivez cet autre lien</a>.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
