@@ -19,6 +19,11 @@
       <mj-button inner-padding="16px 20px" background-color="#0066ff" font-family="'Open Sans', Arial, Helvetica, sans-serif" font-size="15px" font-weight="600" line-height="19px" color="#ffffff"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
+    <mj-style>
+      .shadow{
+          box-shadow: 3px 2px 2px #1b1b1b;
+      }
+    </mj-style>
   </mj-head>
   <mj-body width="650px" background-color="#eeeeee">
     <mj-section padding="0">
@@ -156,10 +161,10 @@
         </mj-group>
         <mj-group width="50%">
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/Sm2D8hS/icone-40.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/Sm2D8hS/icone-40.jpg" alt=""></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/TbQpg7b/icone-38.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/TbQpg7b/icone-38.jpg" alt=""></mj-image>
           </mj-column>
           <mj-column>
             <mj-image padding="6px" width="60px" src="https://i.ibb.co/yFLsvKC/icone-36.jpg" alt=""></mj-image>
@@ -170,16 +175,16 @@
         </mj-group>
         <mj-group width="50%">
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/chZR3XF/icone-32.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/chZR3XF/icone-32.jpg" alt=""></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/tCYRf0d/icone-30.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/tCYRf0d/icone-30.jpg" alt=""></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/DrmsVb6/icone-28.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/DrmsVb6/icone-28.jpg" alt=""></mj-image>
           </mj-column>
           <mj-column>
-            <mj-image padding="6px" width="60px" src="https://i.ibb.co/VNrZfbT/icone-26.jpg" alt=""></mj-image>
+            <mj-image padding="6px" border="3px solid #eeeeee" border-radius="8px" width="60px" src="https://i.ibb.co/VNrZfbT/icone-26.jpg" alt=""></mj-image>
           </mj-column>
         </mj-group>
       </mj-section>
